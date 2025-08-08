@@ -87,16 +87,6 @@ Courier-Management-System/
 
 ---
 
-## 📌 Future Enhancements
-
-- Email/SMS notification on courier status update
-- Role-based access (Staff, Delivery Agent, etc.)
-- Enhanced dashboard with analytics
-- Upload delivery proof images
-- Integration with Google Maps API for tracking
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -111,9 +101,9 @@ This project is open-source and free to use under the MIT License.
 
 ## ✍️ Author
 
-**Aman Sahani**  
-[Email: your-email@example.com]  
-[GitHub: https://github.com/yourusername]
+**Devrshi Bhavsar**  
+[Email: devrshib@gmail.com]  
+[GitHub: https://github.com/ig-devrshi]
 
 ---
 
